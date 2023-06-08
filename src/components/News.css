@@ -1,4 +1,11 @@
+.mg{
+    margin: 3vmax 0 5vmax;
+}
+.mgMain{
+    margin-bottom: 3vmax;
+}
 .prevNext{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 3vmax;
 }
